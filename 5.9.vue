@@ -172,7 +172,7 @@
 "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://vip.parwix.com:4433/player/?url=#http://m2090.com/?url=#https://www.yemu.xyz/?url=#https://jx5.178du.com/8090/jiexi/?url=#https://sb.5gseo.net/?url=#https://jx.blbo.cc:4433/?url=#http://47.100.138.210:92/?url=#https://nbjx.vip/?url=",
 "dianshizhibo": "https://raw.fastgit.org/tianqi981/gusutianqi/main/3.11ds.html",
 "tiyuzhibo": "https://m.zhibo8.net",
-"guolvdizhi": "player.css#url=#cnzz.com#51.la#poster#api.php",
+"guolvdizhi": "player.css#url=#cnzz.com#51.la#poster#api.php#player",
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
 "Home": {
