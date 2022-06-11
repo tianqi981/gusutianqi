@@ -170,7 +170,7 @@
 {"name": "HY户外","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 "zhujiexi": "https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=#https://jhjx.kuanjv.com/newky/?url=#https://json.iku.cool/api/?key=3qTKEDXBaIaOiGjYwX&url=#http://api.vip123kan.vip/?url=#https://json.hfyrw.com/mao.go?url=#https://json.pangujiexi.com:12345/json.php?url=#https://json.5lp.net/json.php?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=#https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=12185285&key=ijkluxAELMRUWXY279&url=",
 "beiyongjiexi": "https://jx.parwix.com:4433/player/analysis.php?v=#https://nbjx.vip/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.58g8.com/1/?url=#http://m2090.com/?url=#https://www.yemu.xyz/?url=#https://jx.blbo.cc:4433/?url=#http://47.100.138.210:92/?url=",
-"dianshizhibo": "https://raw.fastgit.org/tianqi981/gusutianqi/main/3.11ds.html",
+"dianshizhibo": "http://lb.yy111.cn/A/1654955234.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "guolvdizhi": "player.css#url=#cnzz.com#51.la#poster#api.php#player",
 "reci": "https://v.sogou.com",
