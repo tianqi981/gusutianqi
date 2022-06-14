@@ -14,7 +14,7 @@
 "spider":"https://findcopy.github.io/Tangsan99999/doraAmen.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9maW5kY29weS5naXRodWIuaW8vVGFuZ3Nhbjk5OTk5L3R2L2xpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9maW5kY29weS5naXRodWIuaW8vVGFuZ3Nhbjk5OTk5L3R2L2xpdmUudHh0=="
 ]}]}],
 
 
