@@ -1,4 +1,5 @@
 {"zhuyejiekou": [
+{"name":"默认主页","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"极酷视频","url":"https://jiku.vip/mogai_api.php/v1.vod"},    
 {"name":"飓风影院(推荐)","url": "http://yidayy.top/lehailb_api.php/v1.vod"},
 {"name":"飓风影视2","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
@@ -93,6 +94,9 @@
 {"name":"特狗影视","url":"http://tv.tegouys.com/api.php/iptv/vod/"},
 {"name":"狐狸资源","url":"https://api.foxzyapi.com/api.php"},
 {"name":"猫咪影视","url":"http://zy.xiaomaomi.cc/api.php"},
+{"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"},
+{"name":"39影视","url":"https://www.39kan.com/api.php"},
+{"name":"千寻时光","url":"http://wy.dqyhg.cn/api.php"},
 {"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php"},
 {"name":"293","url":"http://293x.yhzy.xyz/mv/api.php"},
 {"name":"M3U8.TV资源","url":"http://www.zycaiji.net:7788/api.php"},
