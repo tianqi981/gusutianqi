@@ -96,6 +96,8 @@
 {"name":"狐狸资源","url":"https://api.foxzyapi.com/api.php"},
 {"name":"猫咪影视","url":"http://zy.xiaomaomi.cc/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"},
+{"name":"百度资源","url":"https://api.apibdzy.com/api.php"},
+{"name":"飘花资源","url":"http://www.zzrhgg.com/api.php"},
 {"name":"39影视","url":"https://www.39kan.com/api.php"},
 {"name":"千寻时光","url":"http://wy.dqyhg.cn/api.php"},
 {"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php"},
