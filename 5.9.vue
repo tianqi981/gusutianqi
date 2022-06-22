@@ -201,7 +201,7 @@
 }
 },
 "zidingyi": [
-{"name": "公众号：云星日记",
+{"name": "乐猪",
 "url": "http://www.lezhutv.com",
 "tihuan": "cnzz.com",
 "User": "空",
