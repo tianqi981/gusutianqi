@@ -1,5 +1,6 @@
 {"zhuyejiekou": [
 {"name":"默认主页","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
+{"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"极酷视频","url":"https://jiku.vip/mogai_api.php/v1.vod"},    
 {"name":"飓风影院(推荐)","url": "http://yidayy.top/lehailb_api.php/v1.vod"},
 {"name":"飓风影视2","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
