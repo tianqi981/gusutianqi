@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://gitee.com/long-term-interests/super-jadx/raw/super-jadx/jadx-samples/qiaoji.jar",
+"spider":"https://raw.0z.gs/tianqi981/gusutianqi/main/ji66.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
