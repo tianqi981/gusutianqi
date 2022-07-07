@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://raw.0z.gs/tianqi981/gusutianqi/main/ji66.jar",
+"spider":"https://musedam-assets-cdn.musetransfer.com/b2bb0e569b371930d22bd40ccbb5817d.jar?Expires=1657382399&OSSAccessKeyId=LTAI5tDubGKMRMroG8MuTLZo&Signature=nxrFqS8PU7WLZYEOYYcQODkqVSA%3D&response-content-disposition=attachment%3B%20filename%3D%22qiaoji66.jar%22%3B%20filename%2A%3Dutf-8%27%27qiaoji66.jar&response-content-type=application%2Foctet-stream",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
