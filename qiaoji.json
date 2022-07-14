@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://bj29.cn-beijing.data.alicloudccp.com/iB83tMJU%2F2252998%2F62c54055d867b72b16dd42c887b16b2136eac56f%2F62c54055d64a88112d194430b558c6cae85171a3?di=bj29&dr=434670750&f=62c6bdbc118a5c947e8b4757ae92a3c29b994e5e&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27qiaoji66.jar&u=7675700399674e959618c0ddcc5528f8&x-oss-access-key-id=LTAI5t8sJLSvMtxoes9pGyTv&x-oss-expires=1657802571&x-oss-signature=6sCDqpeCd8YXSU11B3mcfTvg8w2D%2FI4VTmkMATJHjHE%3D&x-oss-signature-version=OSS2",
+"spider":"https://musedam-assets-cdn.musetransfer.com/b2bb0e569b371930d22bd40ccbb5817d.jar?Expires=1657987199&OSSAccessKeyId=LTAI5tDubGKMRMroG8MuTLZo&Signature=IKaxuJlIC6s1KbGGt31bHoYMi0E%3D&response-content-disposition=attachment%3B%20filename%3D%22qiaoji66.jar%22%3B%20filename%2A%3Dutf-8%27%27qiaoji66.jar&response-content-type=application%2Foctet-stream",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
